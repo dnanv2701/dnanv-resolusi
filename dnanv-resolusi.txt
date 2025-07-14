@@ -5,4 +5,5 @@ DNANV RESOLUSI
 -Jago STATISTICS
 -Jago SQL
 -Jago POWER BI
-  
+-Data Preparation
+-Validation
